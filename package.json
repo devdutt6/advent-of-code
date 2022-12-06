@@ -1,0 +1,13 @@
+{
+  "name": "Advent_of_Code",
+  "version": "1.0.0",
+  "description": "The solutions for AOC hackathon.",
+  "main": "index.js",
+  "repository": "repo",
+  "author": "devdutt6",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "aoctemplate": "^0.1.3"
+  }
+}
